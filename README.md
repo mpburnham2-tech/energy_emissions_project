@@ -1,7 +1,9 @@
 # Assessing the emissions-reduction impacts of renewable energy in Washington State \(1960-2020)
 
-Project: Environmental Data Science Certificate Capstone Project
+Project: Environmental Data Science Certificate Capstone
+
 Author: Michael Burnham
+
 Date: March 2027
 
 ---
