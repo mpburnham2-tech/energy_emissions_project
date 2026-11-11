@@ -1,4 +1,4 @@
-# Environmental Data Science Capstone Project: Assessing the emissions-reduction impacts of renewable energy in Washington State \(1960-2020)\
+# Environmental Data Science Capstone Project: Assessing the emissions-reduction impacts of renewable energy in Washington State \(1960-2020)
 
 OVERVIEW
 
