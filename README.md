@@ -1,4 +1,4 @@
-# Assessing the emissions-reduction impacts of renewable energy in Washington State \(1960-2020)
+# Assessing emissions-reduction impacts of renewable energy in Washington State \(1960-2020)
 
 Project: Environmental Data Science Certificate Capstone
 
