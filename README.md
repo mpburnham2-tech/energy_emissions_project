@@ -49,9 +49,13 @@ Given the availability of panel (longitudinal) data from the EIA dataset, the te
 ## CAPSTONE REPOSITORY ORGANIZATION
 
 My repository contains the following initial folders:
+
 ├── data/
+
 │   ├── raw_data/
+
 │   │   ├── raw_data_20261111/
+
 │   │   │   ├── wind_energy_consumption.csv
 │   │   │   ├── hydropower_consumption.csv
 │   │   │   ├── solar_energy_consumption.csv
@@ -67,27 +71,14 @@ My repository contains the following initial folders:
 │   │   │   ├── df_wa_total_energy_emissions.csv
 │   │   │   ├── df_wa_per_capita_emissions.csv
 │   ├── analysis/
-│   │   ├── data_analysis_2026####
-│   │   │   ├── #################
+│   │   ├── data_analysis_2026DATE
 │   │   ├── scripts_20261109
-│   │   │   ├── Project_folder_setup
+│   │   │   ├── project_folder_setup
 │   ├── metadata/
-│   │   ├── README_20251016
+│   │   ├── README_20261111
 │   │   │   ├── README.md
-│   │   ├── Background_20251016
-│   │   │   ├── data_processing_notes.md
-│   │   │   ├── product_info.md
-│   │   │   ├── config.txt
-│   │   │   ├── project_notes_jan2023.txt
-│   │   │   ├── random_notes.txt
 │   ├── archive/
-│   │   ├── archival_scripts_10162025
-│   │   │   ├── Sales_Analysis_OLD.ipynb
-│   │   │   ├── quick_check.ipynb
 │   ├── outputs/
-│   │   ├── reports_20251016
-│   │   │   ├── customer_report.txt
-│   │   │   ├── employee_analysis_final.txt
 • Raw data
 
 As my capstone progresses, I plan to add other folders, including Results and Communications.
