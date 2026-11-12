@@ -51,32 +51,55 @@ Given the availability of panel (longitudinal) data from the EIA dataset, the te
 My repository contains the following initial folders:
 
 ├── data/
+
 │   ├── raw_data/
 
 │   │   ├── raw_data_20261111/
 
 │   │   │   ├── wind_energy_consumption.csv
+
 │   │   │   ├── hydropower_consumption.csv
+
 │   │   │   ├── solar_energy_consumption.csv
+
 │   │   │   ├── total_energy_emissions.csv
+
 │   │   │   ├── per_capita_emissions.csv
+
 │   │   │   ├── total_energy_consumption_by_source.csv
+
 │   ├── clean_data/
+
 │   │   ├── clean_data_20261111/
+
 │   │   │   ├── df_wa_solar_energy_consumption.csv
+
 │   │   │   ├── df_wa_hydropower_consumption.csv
+
 │   │   │   ├── df_wa_wind_energy_consumption.csv
+
 │   │   │   ├── df_wa_energy_consumption_by_source.csv
+
 │   │   │   ├── df_wa_total_energy_emissions.csv
+
 │   │   │   ├── df_wa_per_capita_emissions.csv
+
 │   ├── analysis/
+
 │   │   ├── data_analysis_2026DATE
+
 │   │   ├── scripts_20261109
+
 │   │   │   ├── project_folder_setup
+
 │   ├── metadata/
+
 │   │   ├── README_20261111
+
 │   │   │   ├── README.md
+
 │   ├── archive/
+
 │   ├── outputs/
 • Raw data
 
