@@ -51,7 +51,6 @@ Given the availability of panel (longitudinal) data from the EIA dataset, the te
 My repository contains the following initial folders:
 
 ├── data/
-
 │   ├── raw_data/
 
 │   │   ├── raw_data_20261111/
