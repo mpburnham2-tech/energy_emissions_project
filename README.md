@@ -103,5 +103,5 @@ My repository contains the following initial folders:
 │   ├── outputs/
 • Raw data
 
-As my capstone progresses, I plan to add other folders, including Results and Communications.
+As my capstone progresses, I may adjust my folder structure and the files within.
 
